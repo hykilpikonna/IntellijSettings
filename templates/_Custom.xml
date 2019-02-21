@@ -1,0 +1,74 @@
+<templateSet group="_Custom">
+  <template name="hylogsd" value="private static DebugLogger logger = new DebugLogger(&quot;$CLASS_NAME$&quot;, true);&#10;" description="建一个static DebugLogger对象" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="hylogd" value="private DebugLogger logger = new DebugLogger(&quot;$CLASS_NAME$&quot;, true);&#10;" description="建一个DebugLogger对象" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="hylogs" value="private static DebugLogger logger = new DebugLogger(&quot;$CLASS_NAME$&quot;, false);&#10;" description="建一个static Logger对象" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="hylog" value="private DebugLogger logger = new DebugLogger(&quot;$CLASS_NAME$&quot;, false);&#10;" description="建一个Logger对象" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="System.out.println(&quot;$END$&quot;);" description="System.out.println()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="inrb" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));" description="建一个控制台输入环境 (BufferedReader)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lol" value="logger.log(&quot;$END$&quot;);" description="logger.log(&quot;&quot;)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lod" value="logger.debug(&quot;$END$&quot;);" description="logger.debug(&quot;&quot;)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="mifo" value="/**&#10; * 此类由 Hykilpikonna 在 $DATE$ 创建!&#10; * Created by Hykilpikonna on $DATE$!&#10; * Github: https://github.com/hykilpikonna&#10; * QQ: admin@moecraft.cc -OR- 871674895&#10; * &#10; * @author Hykilpikonna&#10; */" description="建立类的信息" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;yyyy/mm/dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mtest" value="private static DebugLogger logger = new DebugLogger(&quot;$CLASS_NAME$&quot;, true);&#10;&#10;public static void main(String[] args)&#10;{&#10;    BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));&#10;    &#10;    $END$&#10;}" description="建立测试类" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="rep" value="Main.getMessenger().respond(event, &quot;$end$&quot;);" description="Main.getMessenger().respond(event, &quot;&quot;);" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loe" value="logger.error(&quot;$END$&quot;);" description="logger.error(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lof" value="logger.fancy$END$" description="logger.fancy" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

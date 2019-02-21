@@ -1,0 +1,10 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>Pattern (java.util.regex)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("compile").withParameters("java.lang.String").definedInClass("java.util.regex.Pattern"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("compile").withParameters("java.lang.String", "int").definedInClass("java.util.regex.Pattern"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String", "java.lang.CharSequence").definedInClass("java.util.regex.Pattern"))]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,0 +1,50 @@
+<application>
+  <component name="RemoteServerClientLibraries">
+    <client-library id="cloudbees">
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-codec.jar-1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-logging-1.0.4.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-fileupload.jar-1.2.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/xmlpull-1.1.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/cloudbees-api-client-1.2.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jettison.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-io-2.0.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/xpp3_min-1.1.4c.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jackson-core-asl.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/annotations-api-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-cli-1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-httpclient.jar-3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/el-api-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jackson-mapper-asl.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jsp-api-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jasper-el-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jasper-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/juli-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/xstream.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/servlet-api-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/catalina-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/activation-1.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/ant-launcher-1.8.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stax-appserver-core-1.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/mysql-connector-java-5.1.15.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stringtemplate-3.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/commons-daemon-1.0.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/coyote-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/antlr-2.7.7.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/dbcp-6.0.35.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stax-api-1.0.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/jasper-jdt-6.0.29.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stax-appserver-1.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stax-appgen-1.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/ecj-3.5.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stax-api-client-1.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/ant-plugin-1.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/db-plugin-1.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/mail-1.4.4.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/config-plugin-1.1.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/stax-logagent-1.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/ant-1.8.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/app-plugin-1.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.2/system/remote-server-libraries/cloudbees/app-plugin-1.2.0.jar" />
+    </client-library>
+  </component>
+</application>

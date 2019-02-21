@@ -1,0 +1,110 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ColorChooser.RecentColors" value="58-58-58-255,,,130-130-130-255,,,147-106-140-255,,,76-161-175-52,,,196-224-229-53,,,0-0-0-154,,,185-185-185-92,,,255-182-202-255,,,130-83-124-255,,,90-71-87-255,,,60-60-87-255,,,87-87-26-255,,,46-61-63-255,,,62-54-63-255,,,31-25-31-255,,,67-55-67-255,,,74-66-75-255,,,101-91-102-255,,,130-130-161-255,,,160-160-197-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.73477674" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="FindSplitterProportion" value="0.24414976" />
+    <property name="IJ_BASE_PACKAGE" value="cc.moecraft.icq.plugins.mathbot" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveClassWithTarget.OpenInEditor" value="false" />
+    <property name="PLUGIN_FILTER" value="color scheme&#10;sync&#10;ruby&#10;Rich P&#10;decompile" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_COMPANY_DOMAIN" value="moecraft.cc" />
+    <property name="SAVED_PROJECT_KOTLIN_SUPPORT" value="true" />
+    <property name="SAVED_RENDER_LANGUAGE" value="Java" />
+    <property name="SearchEveryWhereHistory" value="C&#10;jdbc/driver&#10;mchange&#10;com.mchange&#10;//" />
+    <property name="SettingsSearchHistory" value="plugins&#10;live&#10;template&#10;java&#10;kot" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="android-component-compatibility-check" value="1545471928790" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="evlsprt3.IU-181.4203.6" value="19" />
+    <property name="export.settings.path" value="D:\2018-12-30 IDEA Settings.jar" />
+    <property name="file.chooser.recent.files" value="C:/Workspace/Java/OsuDownloadAccelerator&#10;C:/Workspace/Coding/Java/PicqBotX&#10;E:/Dropbox/IdeaProjects/Vanilla&#10;C:/Workspace/Coding/Java/HyLogger&#10;E:/Dropbox/IdeaProjects/HyLiveLocationServer&#10;C:/Users/Hykilpikonna/.IntelliJIdea2018.2/config/colors/One Dark.icls&#10;D:/Downloads/settings.jar&#10;D:/Pictures/Saved Pictures/Theme/IntelliJ/IntelliJ Wallpaper.jpg&#10;D:/Pictures/Anime/Miv4t/57095174_p0.jpg&#10;C:/Workspace/Coding/Java/HyLiveLocationAndroid19&#10;E:/Dropbox/IdeaProjects/School&#10;C:/Workspace/Coding/Java/HyLiveLocationServer/javadocs&#10;C:/Workspace/Coding/Java/HyLiveLocationServer&#10;C:/Workspace/Coding/Java/HyConfigLib&#10;C:/Workspace/Coding/Java/HyCommonUtils&#10;C:/Workspace/Coding/Java/Vanilla&#10;D:/Desktop/Coding/GitHub/Projects/HyLiveLocationServer&#10;E:/Dropbox/2018-11-25 IDEA Settings.jar&#10;D:/2018-11-25 IDEA Settings.jar&#10;D:/Desktop/Coding/GitHub/Projects/HyLiveLocationClient.Android&#10;D:/Desktop/Coding/GitHub/Projects/HyLiveLocationSharing/hylivelocationclient&#10;D:/Desktop/Coding/GitHub/Projects/HyLiveLocationSharing/hyllsclient&#10;D:/Desktop/Coding/GitHub/Projects/linuxdeploy/app/src/main/AndroidManifest.xml&#10;D:/Desktop/Coding/GitHub/Projects/linuxdeploy&#10;D:/Desktop/Coding/GitHub/Projects/shadowsocks-java&#10;D:/AndroidSDK&#10;D:/Desktop/Coding/IdeaProjects/BukkitPluginServerDataReciever&#10;E:/Backup/GPACalculator&#10;E:/Dropbox/IdeaProjects/GPACalculator&#10;C:/Programs/Servers/Tomcat 9.0" />
+    <property name="file.gist.reindex.count" value="18614" />
+    <property name="fileTypeChangedCounter" value="41" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="idea.background.editor" value="D:\Pictures\Saved Pictures\Theme\IntelliJ\IntelliJ Wallpaper.jpg,6,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="javascript.return.tag" value="return" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1547688697104" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="D:/Desktop/Coding/GitHub/Projects/HyLiveLocationSharing/hylivelocationclient" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="newly.installed.api.level" value="26" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="D:\Pictures\Anime\Miv4t\57095174_p0.jpg&#10;D:\Pictures\Saved Pictures\Theme\IntelliJ\IntelliJ Wallpaper.jpg" />
+    <property name="param.hints.settings.last.edited.language" value="JAVA" />
+    <property name="project.jdk.splitter" value="0.19974874" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="DEFAULT_DOC_COMMENT" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JSP" value="Imports" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Wrapping and Braces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

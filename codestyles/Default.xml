@@ -1,0 +1,46 @@
+<code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
+  </JSCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+  </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="LBRACE_ON_NEXT_LINE" value="true" />
+  </JetCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="WHILE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="WHILE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

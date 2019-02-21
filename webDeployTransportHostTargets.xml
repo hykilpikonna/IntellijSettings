@@ -1,0 +1,28 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="12f98212-a9d3-4b10-92e6-0b53b300eb36" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="b427d61d-9d7e-4486-9fb7-46e445e1abc3" />
+              <id>b427d61d-9d7e-4486-9fb7-46e445e1abc3</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="12f98212-a9d3-4b10-92e6-0b53b300eb36" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="990501bc-eccd-4565-bfc0-d2996d254687" />
+              <id>990501bc-eccd-4565-bfc0-d2996d254687</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/Program Files/Apache Software Foundation/Tomcat 9.0/webapps/ROOT" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
