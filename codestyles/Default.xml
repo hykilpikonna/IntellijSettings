@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
@@ -8,7 +8,13 @@
   <JetCodeStyleSettings>
     <option name="LBRACE_ON_NEXT_LINE" value="true" />
   </JetCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <Objective-C>
+    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
+    <option name="SUPERCLASS_LIST_COMMA_ON_NEXT_LINE" value="true" />
+  </Objective-C>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JAVA">
@@ -30,6 +36,10 @@
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="BRACE_STYLE" value="2" />
