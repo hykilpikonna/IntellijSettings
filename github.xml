@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="2fe2dca5-cf74-4716-adc7-2a72a8b5e3e0" name="hykilpikonna">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="admin@Moecraft.cc" />
     <option name="AUTH_TYPE" value="BASIC" />
