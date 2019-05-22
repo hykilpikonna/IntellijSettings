@@ -28,6 +28,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="lib">
+      <CLASSES>
+        <root url="file://C:/Programs/Editors/Greenfoot-windows-354/greenfoot/lib" />
+        <root url="jar://C:/Programs/Editors/Greenfoot-windows-354/IntelliJ/greenfoot.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Programs/Editors/Greenfoot-windows-354/greenfoot/lib/english/greenfoot/api" />
+        <root url="file://C:/Programs/Editors/Greenfoot-windows-354/greenfoot/lib/greenfoot/common" />
+      </SOURCES>
+      <jarDirectory url="file://C:/Programs/Editors/Greenfoot-windows-354/greenfoot/lib" recursive="false" />
+    </library>
     <library name="platform" type="javaScript">
       <properties>
         <sourceFilesUrls>
