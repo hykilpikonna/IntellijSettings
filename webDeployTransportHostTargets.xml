@@ -22,6 +22,26 @@
           </option>
           <option name="targetPath" value="/Program Files/Apache Software Foundation/Tomcat 9.0/webapps/ROOT" />
         </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="82339bce-4a26-4894-b2ce-6a9f32704d46" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="588a6679-93b0-4492-88ac-36cf25a4237b" />
+              <id>588a6679-93b0-4492-88ac-36cf25a4237b</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="82339bce-4a26-4894-b2ce-6a9f32704d46" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="6cf94121-a809-485a-90c0-f2b0c1851108" />
+              <id>6cf94121-a809-485a-90c0-f2b0c1851108</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/var/lib/tomcat8/webapps" />
+        </WebDeploymentTransportHostTarget>
       </list>
     </option>
   </component>
