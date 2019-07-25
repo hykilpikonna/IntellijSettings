@@ -2,20 +2,31 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.ctxt;*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="DebugList" type="PLAIN_TEXT" />
-      <mapping pattern="splash-precolored" type="PLAIN_TEXT" />
-      <mapping pattern="0-installation-guide" type="PLAIN_TEXT" />
-      <mapping pattern="构思" type="PLAIN_TEXT" />
-      <mapping pattern="testconvert" type="PLAIN_TEXT" />
-      <mapping pattern="credits" type="PLAIN_TEXT" />
       <mapping pattern="no1-pre" type="PLAIN_TEXT" />
       <mapping pattern="splash" type="PLAIN_TEXT" />
       <mapping pattern="no4-heart" type="PLAIN_TEXT" />
-      <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="no2-opened-box" type="PLAIN_TEXT" />
-      <mapping ext="pattern" type="PLAIN_TEXT" />
+      <mapping pattern="0-installation-guide" type="PLAIN_TEXT" />
+      <mapping pattern="构思" type="PLAIN_TEXT" />
+      <mapping pattern="help" type="PLAIN_TEXT" />
+      <mapping pattern="testconvert" type="PLAIN_TEXT" />
+      <mapping pattern="splash-precolored" type="PLAIN_TEXT" />
+      <mapping pattern="credits" type="PLAIN_TEXT" />
       <mapping ext="entry" type="PLAIN_TEXT" />
+      <mapping ext="pattern" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="pprktheme" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
