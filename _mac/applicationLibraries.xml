@@ -38,5 +38,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
