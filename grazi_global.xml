@@ -2,6 +2,7 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
+        <option value="DASH_RULE" />
         <option value="HAVE_PART_AGREEMENT" />
       </set>
     </option>
