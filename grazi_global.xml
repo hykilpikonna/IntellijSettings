@@ -4,6 +4,7 @@
       <set>
         <option value="DASH_RULE" />
         <option value="HAVE_PART_AGREEMENT" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
       </set>
     </option>
     <option name="lastSeenVersion" value="2019.2-5.3.stable" />
