@@ -4,6 +4,7 @@
       <set>
         <option value="DASH_RULE" />
         <option value="HAVE_PART_AGREEMENT" />
+        <option value="PASSIVE_VOICE" />
         <option value="PUNCTUATION_PARAGRAPH_END" />
       </set>
     </option>
