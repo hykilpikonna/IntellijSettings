@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="docute" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docute@3_dist_docute.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docute@3_dist_docute.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="echarts" type="javaScript">
       <properties>
         <sourceFilesUrls>
