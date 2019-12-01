@@ -2,6 +2,5 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>

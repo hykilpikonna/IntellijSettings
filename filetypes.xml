@@ -2,20 +2,18 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.ctxt;*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="splash" type="PLAIN_TEXT" />
+      <mapping pattern="no1-pre" type="PLAIN_TEXT" />
+      <mapping pattern="credits" type="PLAIN_TEXT" />
+      <mapping pattern="javadocs_config" type="PLAIN_TEXT" />
       <mapping pattern="splash-precolored" type="PLAIN_TEXT" />
       <mapping pattern="0-installation-guide" type="PLAIN_TEXT" />
-      <mapping pattern="testconvert" type="PLAIN_TEXT" />
-      <mapping pattern="javadocs_config" type="PLAIN_TEXT" />
       <mapping pattern="构思" type="PLAIN_TEXT" />
       <mapping pattern="DebugList" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="credits" type="PLAIN_TEXT" />
       <mapping pattern="no4-heart" type="PLAIN_TEXT" />
+      <mapping pattern="testconvert" type="PLAIN_TEXT" />
       <mapping pattern="help" type="PLAIN_TEXT" />
-      <mapping pattern="no1-pre" type="PLAIN_TEXT" />
       <mapping pattern="no2-opened-box" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="entry" type="PLAIN_TEXT" />
