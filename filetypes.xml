@@ -7,6 +7,7 @@
       <mapping pattern="no1-pre" type="PLAIN_TEXT" />
       <mapping pattern="credits" type="PLAIN_TEXT" />
       <mapping pattern="javadocs_config" type="PLAIN_TEXT" />
+      <mapping pattern="session" type="PLAIN_TEXT" />
       <mapping pattern="splash-precolored" type="PLAIN_TEXT" />
       <mapping pattern="0-installation-guide" type="PLAIN_TEXT" />
       <mapping pattern="构思" type="PLAIN_TEXT" />
