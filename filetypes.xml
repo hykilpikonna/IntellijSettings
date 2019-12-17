@@ -12,6 +12,7 @@
       <mapping pattern="0-installation-guide" type="PLAIN_TEXT" />
       <mapping pattern="构思" type="PLAIN_TEXT" />
       <mapping pattern="credits" type="PLAIN_TEXT" />
+      <mapping pattern="1990 [8] - Basic Concepts.md" type="PLAIN_TEXT" />
       <mapping pattern="DebugList" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="testconvert" type="PLAIN_TEXT" />
