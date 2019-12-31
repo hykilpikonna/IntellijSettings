@@ -8,8 +8,8 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.java</mask>
   </component>
 </application>
