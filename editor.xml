@@ -1,4 +1,8 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="DejaVu Sans Mono" />
+    <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei Mono" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
