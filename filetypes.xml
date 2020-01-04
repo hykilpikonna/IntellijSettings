@@ -14,6 +14,7 @@
       <mapping pattern="credits" type="PLAIN_TEXT" />
       <mapping pattern="DebugList" type="PLAIN_TEXT" />
       <mapping pattern="javadocs_config" type="PLAIN_TEXT" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="entry" type="PLAIN_TEXT" />
