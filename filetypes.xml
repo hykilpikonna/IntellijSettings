@@ -15,6 +15,7 @@
       <mapping pattern="DebugList" type="PLAIN_TEXT" />
       <mapping pattern="javadocs_config" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
+      <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="entry" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="HardwareBackButtonProvider" type="TypeScript" />
