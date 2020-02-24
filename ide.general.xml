@@ -7,6 +7,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="js.debugger.webconsole" value="false" />
   </component>
 </application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="DASH_RULE" />
+        <option value="HAVE_PART_AGREEMENT" />
+        <option value="PASSIVE_VOICE" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
+        <option value="WHITESPACE_RULE" />
+      </set>
+    </option>
+    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<templateSet group="_CustomHtml">
+  <template name="cmt" value="&lt;!-- $END$ --&gt;" description="XML Comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="MXML" value="true" />
+      <option name="VUE_SCRIPT" value="false" />
+      <option name="Vue" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="!-- $END$ --&gt;" description="XML Comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="MXML" value="true" />
+      <option name="VUE_SCRIPT" value="false" />
+      <option name="Vue" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
