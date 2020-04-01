@@ -3,6 +3,6 @@
     <option name="lastUpdateNotification" value="1.1.1" />
   </component>
   <component name="DiscordApplicationSettings">
-    <option name="projectDetails" value="NONE" />
+    <option name="projectDetails" value="PROJECT_NAME_DESCRIPTION" />
   </component>
 </application>
