@@ -4,6 +4,7 @@
       <mapping pattern="mcmod.info" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="osu" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
