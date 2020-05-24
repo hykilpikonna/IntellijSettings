@@ -2,7 +2,6 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULE_GROUPS" value="false" />
-    <option name="UI_FILTER_LEGALS" value="true" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
