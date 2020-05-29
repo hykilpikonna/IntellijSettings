@@ -26,6 +26,7 @@
     </option>
     <option name="usedLanguages">
       <set>
+        <option value="java" />
         <option value="kotlin" />
       </set>
     </option>
