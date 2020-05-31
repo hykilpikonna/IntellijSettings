@@ -15,6 +15,9 @@
   <JetCodeStyleSettings>
     <option name="LBRACE_ON_NEXT_LINE" value="true" />
   </JetCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="BRACE_PLACEMENT" value="1" />
+  </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
   </TypeScriptCodeStyleSettings>
