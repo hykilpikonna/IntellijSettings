@@ -12,6 +12,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="element-ui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_element-ui_lib_theme-chalk_index.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_element-ui_lib_theme-chalk_index.css" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jquery-3.3.1" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
