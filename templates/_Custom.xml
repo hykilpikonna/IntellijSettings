@@ -43,10 +43,11 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="mifo" value="/**&#10; * 此类由 Hykilpikonna 在 $DATE$ 创建!&#10; * Created by Hykilpikonna on $DATE$!&#10; * Github: https://github.com/hykilpikonna&#10; * QQ: admin@moecraft.cc -OR- 871674895&#10; * &#10; * @author Hykilpikonna&#10; */" description="建立类的信息" toReformat="true" toShortenFQNames="true">
-    <variable name="DATE" expression="date(&quot;yyyy/mm/dd&quot;)" defaultValue="" alwaysStopAt="true" />
+  <template name="mifo" value="/**&#10; * TODO: Write a description for this class!&#10; *&#10; * @author HyDEV Team (https://github.com/HyDevelop)&#10; * @author Hykilpikonna (https://github.com/hykilpikonna)&#10; * @author Vanilla (https://github.com/VergeDX)&#10; * @since $DATE$&#10; */" description="建立类的信息" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;yyyy-MM-dd HH:mm&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
   <template name="mtest" value="private static DebugLogger logger = new DebugLogger(&quot;$CLASS_NAME$&quot;, true);&#10;&#10;public static void main(String[] args)&#10;{&#10;    BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));&#10;    &#10;    $END$&#10;}" description="建立测试类" toReformat="true" toShortenFQNames="true">
