@@ -4,12 +4,13 @@
     <property name="created">2017-06-07T14:43:42</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2019-03-26T15:26:29</property>
+    <property name="modified">2020-08-02T21:32:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Sarasa Mono CL" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
@@ -22,7 +23,6 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -38,6 +38,18 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="1a8078" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
