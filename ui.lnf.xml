@@ -5,6 +5,7 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
