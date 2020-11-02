@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.7 (Cellular-Automata) interpreter library">
       <CLASSES>
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
