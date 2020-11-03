@@ -6,7 +6,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="doggy-auth" type="PLAIN_TEXT" />
       <mapping pattern="session" type="PLAIN_TEXT" />
+      <mapping pattern="session-doggy" type="PLAIN_TEXT" />
       <mapping ext="osu" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
     </extensionMap>
