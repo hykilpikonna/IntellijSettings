@@ -12,7 +12,6 @@
       <mapping pattern="session-doggy" type="PLAIN_TEXT" />
       <mapping ext="osu" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
