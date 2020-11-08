@@ -10,6 +10,7 @@
       <mapping pattern="doggy-auth" type="PLAIN_TEXT" />
       <mapping pattern="session" type="PLAIN_TEXT" />
       <mapping pattern="session-doggy" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="osu" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
     </extensionMap>
