@@ -29,8 +29,6 @@
     </library>
     <library name="Python 3.9 (NetworkDiffBot) interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
         <root url="file:///Volumes/Workspace/Python/NetworkDiffBot/venv/lib/python3.9/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-131376267" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -42,8 +40,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
         <root url="file:///Volumes/Workspace/Python/NetworkDiffBot/venv/lib/python3.9/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-131376267" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -56,8 +52,6 @@
     </library>
     <library name="Python 3.9 (PythonPlayground) interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_2/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_2/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
         <root url="file:///Volumes/macWorkspace/CTF/PythonPlayground/venv/lib/python3.9/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/446470370" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -69,8 +63,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_2/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_2/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
         <root url="file:///Volumes/macWorkspace/CTF/PythonPlayground/venv/lib/python3.9/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/446470370" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
