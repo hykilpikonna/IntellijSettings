@@ -5,7 +5,6 @@
       <mapping pattern="mcmod.info" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="log" type="Log" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="mini-miner-token" type="PLAIN_TEXT" />
       <mapping pattern="doggy-auth" type="PLAIN_TEXT" />
