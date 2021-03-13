@@ -13,6 +13,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="osu" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="plain_text" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="psd" approved="true" type="Image" />
