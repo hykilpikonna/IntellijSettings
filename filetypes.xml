@@ -16,6 +16,7 @@
       <mapping ext="plain_text" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="nmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>

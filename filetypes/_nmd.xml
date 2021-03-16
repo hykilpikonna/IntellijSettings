@@ -1,0 +1,19 @@
+<filetype binary="false" description=".nmd (NyaaMemo Dictionary)" name=".nmd">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="LINE_COMMENT_AT_START" value="true" />
+    </options>
+    <keywords keywords="@indent" ignore_case="true" />
+    <keywords2 />
+    <keywords3 />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="nmd" />
+  </extensionMap>
+</filetype>

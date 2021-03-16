@@ -1,4 +1,10 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <option name="SOFT_MARGINS" value="120" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
