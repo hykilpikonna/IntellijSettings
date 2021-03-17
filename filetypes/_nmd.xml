@@ -9,9 +9,6 @@
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
     <keywords keywords="@indent" ignore_case="true" />
-    <keywords2 />
-    <keywords3 />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping ext="nmd" />
