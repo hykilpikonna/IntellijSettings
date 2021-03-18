@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="live" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_livejs.com_live.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_livejs.com_live.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES />
       <JAVADOC />
@@ -23,11 +35,6 @@
       </SOURCES>
     </library>
     <library name="Python 3.7 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.7.5/lib/python3.7" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.7.5/lib/python3.7/lib-dynload" />
@@ -53,6 +60,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="Python 3.9 (gtk3-tic-tac-toe) interpreter library">
       <CLASSES>
