@@ -2629,6 +2629,11 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="Codeforces">
+                    <value>
+                      <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
+                    </value>
+                  </entry>
                   <entry key="CommandRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
@@ -2987,6 +2992,11 @@
                   <entry key="ZeusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="ccruntests">
+                    <value>
+                      <FeaturePluginData displayName="Run Study Tests" pluginName="com.jetbrains.edu" pluginId="com.jetbrains.edu" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
