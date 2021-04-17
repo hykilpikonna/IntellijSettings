@@ -95,6 +95,103 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.9 (Codeforces Round #481 (Div. 3)) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.4/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.4/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+        <root url="file:///Volumes/macWorkspace/Web/Codeforces Round #481 (Div. 3)/.idea/VirtualEnvironment/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1961876955" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.4/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
+        <root url="file:///usr/local/Cellar/python@3.9/3.9.4/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+        <root url="file:///Volumes/macWorkspace/Web/Codeforces Round #481 (Div. 3)/.idea/VirtualEnvironment/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1961876955" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" />
+      </SOURCES>
+    </library>
     <library name="Python 3.9 (gtk3-tic-tac-toe) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/python_stubs/285473215" />
