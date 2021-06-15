@@ -6,7 +6,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".dic-creator.last-config" type="PLAIN_TEXT" />
       <mapping pattern="mini-miner-token" type="PLAIN_TEXT" />
@@ -14,6 +13,7 @@
       <mapping pattern="session" type="PLAIN_TEXT" />
       <mapping pattern="session-doggy" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="osu" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="plain_text" type="PLAIN_TEXT" />
