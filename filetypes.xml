@@ -18,6 +18,7 @@
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="sage" type="PLAIN_TEXT" />
       <mapping ext="plain_text" type="PLAIN_TEXT" />
+      <mapping ext="help" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="nmd" approved="true" type="PLAIN_TEXT" />
