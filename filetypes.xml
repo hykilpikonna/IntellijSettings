@@ -15,6 +15,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="osu" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="sage" type="PLAIN_TEXT" />
       <mapping ext="plain_text" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
